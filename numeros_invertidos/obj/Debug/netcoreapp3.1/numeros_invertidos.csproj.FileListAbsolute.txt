@@ -1,0 +1,11 @@
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\bin\Debug\netcoreapp3.1\numeros_invertidos.exe
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\bin\Debug\netcoreapp3.1\numeros_invertidos.deps.json
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\bin\Debug\netcoreapp3.1\numeros_invertidos.runtimeconfig.json
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\bin\Debug\netcoreapp3.1\numeros_invertidos.runtimeconfig.dev.json
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\bin\Debug\netcoreapp3.1\numeros_invertidos.dll
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\bin\Debug\netcoreapp3.1\numeros_invertidos.pdb
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\obj\Debug\netcoreapp3.1\numeros_invertidos.csprojAssemblyReference.cache
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\obj\Debug\netcoreapp3.1\numeros_invertidos.AssemblyInfoInputs.cache
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\obj\Debug\netcoreapp3.1\numeros_invertidos.AssemblyInfo.cs
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\obj\Debug\netcoreapp3.1\numeros_invertidos.dll
+C:\Users\enman\source\repos\numeros_invertidos\numeros_invertidos\obj\Debug\netcoreapp3.1\numeros_invertidos.pdb
