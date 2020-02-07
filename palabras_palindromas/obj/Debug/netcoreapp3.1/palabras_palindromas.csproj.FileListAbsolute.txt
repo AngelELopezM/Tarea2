@@ -1,0 +1,11 @@
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\bin\Debug\netcoreapp3.1\palabras_palindromas.exe
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\bin\Debug\netcoreapp3.1\palabras_palindromas.deps.json
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\bin\Debug\netcoreapp3.1\palabras_palindromas.runtimeconfig.json
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\bin\Debug\netcoreapp3.1\palabras_palindromas.runtimeconfig.dev.json
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\bin\Debug\netcoreapp3.1\palabras_palindromas.dll
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\bin\Debug\netcoreapp3.1\palabras_palindromas.pdb
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\obj\Debug\netcoreapp3.1\palabras_palindromas.csprojAssemblyReference.cache
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\obj\Debug\netcoreapp3.1\palabras_palindromas.AssemblyInfoInputs.cache
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\obj\Debug\netcoreapp3.1\palabras_palindromas.AssemblyInfo.cs
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\obj\Debug\netcoreapp3.1\palabras_palindromas.dll
+C:\Users\enman\OneDrive\Escritorio\C#\palabras_palindromas\palabras_palindromas\obj\Debug\netcoreapp3.1\palabras_palindromas.pdb

@@ -1,0 +1,11 @@
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\bin\Debug\netcoreapp3.1\Sumadora.exe
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\bin\Debug\netcoreapp3.1\Sumadora.deps.json
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\bin\Debug\netcoreapp3.1\Sumadora.runtimeconfig.json
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\bin\Debug\netcoreapp3.1\Sumadora.runtimeconfig.dev.json
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\bin\Debug\netcoreapp3.1\Sumadora.dll
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\bin\Debug\netcoreapp3.1\Sumadora.pdb
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\obj\Debug\netcoreapp3.1\Sumadora.csprojAssemblyReference.cache
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\obj\Debug\netcoreapp3.1\Sumadora.AssemblyInfoInputs.cache
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\obj\Debug\netcoreapp3.1\Sumadora.AssemblyInfo.cs
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\obj\Debug\netcoreapp3.1\Sumadora.dll
+C:\Users\enman\OneDrive\Escritorio\C#\Sumadora\Sumadora\obj\Debug\netcoreapp3.1\Sumadora.pdb

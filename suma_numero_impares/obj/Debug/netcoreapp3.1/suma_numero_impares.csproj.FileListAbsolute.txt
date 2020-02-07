@@ -1,0 +1,10 @@
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\bin\Debug\netcoreapp3.1\suma_numero_impares.exe
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\bin\Debug\netcoreapp3.1\suma_numero_impares.deps.json
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\bin\Debug\netcoreapp3.1\suma_numero_impares.runtimeconfig.json
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\bin\Debug\netcoreapp3.1\suma_numero_impares.runtimeconfig.dev.json
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\bin\Debug\netcoreapp3.1\suma_numero_impares.dll
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\bin\Debug\netcoreapp3.1\suma_numero_impares.pdb
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\obj\Debug\netcoreapp3.1\suma_numero_impares.AssemblyInfoInputs.cache
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\obj\Debug\netcoreapp3.1\suma_numero_impares.AssemblyInfo.cs
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\obj\Debug\netcoreapp3.1\suma_numero_impares.dll
+C:\Users\enman\OneDrive\Escritorio\C#\suma_numero_impares\suma_numero_impares\obj\Debug\netcoreapp3.1\suma_numero_impares.pdb

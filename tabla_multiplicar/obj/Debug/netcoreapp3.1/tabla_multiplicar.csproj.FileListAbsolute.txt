@@ -1,0 +1,10 @@
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\bin\Debug\netcoreapp3.1\tabla_multiplicar.exe
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\bin\Debug\netcoreapp3.1\tabla_multiplicar.deps.json
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\bin\Debug\netcoreapp3.1\tabla_multiplicar.runtimeconfig.json
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\bin\Debug\netcoreapp3.1\tabla_multiplicar.runtimeconfig.dev.json
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\bin\Debug\netcoreapp3.1\tabla_multiplicar.dll
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\bin\Debug\netcoreapp3.1\tabla_multiplicar.pdb
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\obj\Debug\netcoreapp3.1\tabla_multiplicar.AssemblyInfoInputs.cache
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\obj\Debug\netcoreapp3.1\tabla_multiplicar.AssemblyInfo.cs
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\obj\Debug\netcoreapp3.1\tabla_multiplicar.dll
+C:\Users\enman\OneDrive\Escritorio\C#\tabla_multiplicar\tabla_multiplicar\obj\Debug\netcoreapp3.1\tabla_multiplicar.pdb
