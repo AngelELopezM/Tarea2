@@ -1,0 +1,11 @@
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\bin\Debug\netcoreapp3.1\Todos_los_numeros_impares.exe
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\bin\Debug\netcoreapp3.1\Todos_los_numeros_impares.deps.json
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\bin\Debug\netcoreapp3.1\Todos_los_numeros_impares.runtimeconfig.json
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\bin\Debug\netcoreapp3.1\Todos_los_numeros_impares.runtimeconfig.dev.json
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\bin\Debug\netcoreapp3.1\Todos_los_numeros_impares.dll
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\bin\Debug\netcoreapp3.1\Todos_los_numeros_impares.pdb
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\obj\Debug\netcoreapp3.1\Todos_los_numeros_impares.AssemblyInfoInputs.cache
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\obj\Debug\netcoreapp3.1\Todos_los_numeros_impares.AssemblyInfo.cs
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\obj\Debug\netcoreapp3.1\Todos_los_numeros_impares.dll
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\obj\Debug\netcoreapp3.1\Todos_los_numeros_impares.pdb
+C:\Users\enman\OneDrive\Escritorio\C#\Todos_los_numeros_impares\Todos_los_numeros_impares\obj\Debug\netcoreapp3.1\Todos_los_numeros_impares.csprojAssemblyReference.cache
